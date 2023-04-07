@@ -1,16 +1,41 @@
-### Hi there 👋
+# Full-stack developer
+## Jonathan Noé Jaime
 
-<!--
-**jony1809/jony1809** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Capacitándome en React, con muchas ganas de participar en proyectos. Me distingo por la facilidad de trabajar en equipo y la adaptación a los cambios. Participé en una competición de programación de React donde se armaban grupos al azar entre personas de toda Latinoamérica. Para trabajar utilizamos las herramientas: Trello, Slack, VSCode y GitHub, y quedamos entre los 10 mejores de 200 equipos.
 
-Here are some ideas to get you started:
+### **<u>Educacion:</u>**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Terciario CURSANDO 3º año de -Analista de Sistemas de Computación- Colegio Universitario IES SIGLO 21 
+
+ Secundario COMPLETO. Egresado del Colegio I.P.E.M nº69 "Juana Manso de Noronha" - Jesús María- Año 2007
+
+
+
+### **<u>Datos de contacto:</u>**
+
+
+  Email: jony_1809@hotmail.com 
+
+  Teléfono: +54 9 3525 453247
+
+  LinkedIn: in/jnjaime
+
+### **<u>Capacitaciones:</u>**
+
+Bootcamp Javascript Full-Stack (Guillermo Rodas)
+
+Udemy-REACT y React Native con TypeScript (Fernando Herrera)
+
+Curso Básico de React (Class Components - Lifecycle / Functional Components - Hooks)
+
+Curso de JAVASCRIPT desde cero  - Nivel Junior
+
+Curso de CSS desde cero 
+
+Curso de HTML desde CERO
+
+### **<u>Inforamacion Adicional</u>**
+Vivo en Sinsacate, Córdoba, Argentina.
+Fecha de nacimiento: 18 de Septiembre de 1989.
+Disfruto hacer deportes, en especial tenis y Padel. Me gusta el cine y realizar actividades al aire libre. y sobre todo me gusta aprender. 
+Mi nivel de ingles escrito es intermedio, y hablado es principiante, pero mejorando cada día.
